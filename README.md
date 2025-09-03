@@ -47,8 +47,9 @@ Bu bölümde, projemizde kullanılan tüm veri dosyaları ve içerdiği kolonlar
     * `payment_installments`: Taksit sayısı.
     * `payment_value`: Ödemenin toplam değeri.
 
-#### `orders_clean.csv`
+#### `orderss_clean.csv`
 * **Açıklama:** Platformdaki tüm siparişlerin ana bilgilerini içerir.
+* **UYARI:** orders_clean.csv dosyası hatalıdır!!!
 * **Kolonları:**
     * `order_id`: Siparişin benzersiz kimliği.
     * `customer_id`: Siparişi veren müşterinin kimliği.
